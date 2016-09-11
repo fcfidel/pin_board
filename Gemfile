@@ -15,6 +15,8 @@ gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'devise', '~> 4.2'
 #paperclip
 gem 'paperclip', '~> 5.1'
+#mansory
+gem 'masonry-rails', '~> 0.2.4'
 #BOOTSTRAP
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 #SIMPLE FORM
