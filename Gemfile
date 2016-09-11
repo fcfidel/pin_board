@@ -11,6 +11,8 @@ gem 'puma', '~> 3.0'
 gem 'sass-rails', '~> 5.0'
 #HAML
 gem 'haml', '~> 4.0', '>= 4.0.7'
+#DEVISE
+gem 'devise', '~> 4.2'
 #BOOTSTRAP
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 #SIMPLE FORM
