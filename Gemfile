@@ -13,6 +13,8 @@ gem 'sass-rails', '~> 5.0'
 gem 'haml', '~> 4.0', '>= 4.0.7'
 #DEVISE
 gem 'devise', '~> 4.2'
+#paperclip
+gem 'paperclip', '~> 5.1'
 #BOOTSTRAP
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 #SIMPLE FORM
