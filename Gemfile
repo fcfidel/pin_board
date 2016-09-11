@@ -17,6 +17,8 @@ gem 'devise', '~> 4.2'
 gem 'paperclip', '~> 5.1'
 #mansory
 gem 'masonry-rails', '~> 0.2.4'
+#votable
+gem 'acts_as_votable', '~> 0.10.0'
 #BOOTSTRAP
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 #SIMPLE FORM
